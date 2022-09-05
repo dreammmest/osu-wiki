@@ -30,13 +30,13 @@ As of June 3, 2021, on the [osu!taiko performance rankings](https://osu.ppy.sh/r
 
 *Main page: [osu!catch](osu!catch)*
 
-As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [CTB Rushia1](https://osu.ppy.sh/users/4158549/fruits).
+As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [Yesmydarknesss](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
 
 *Main page: [osu!mania](osu!mania)*
 
-As of June 3, 2021, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972/mania).
+As of September 5, 2022, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
